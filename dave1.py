@@ -114,6 +114,6 @@ if __name__ == "__main__":
     print(f"Nombre de particules simulées: {len(sim.particles)}")
     
 #davidou888
-print("J'apprend git!!!")
+print("J'apprend git!!! Et c'est pas facile ://")
 
 print("j'update mon python ici !")
