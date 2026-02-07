@@ -112,3 +112,8 @@ if __name__ == "__main__":
     print(f"Norme finale du champ: {np.linalg.norm(final_field):.6f}")
     print(f"Entropie d'intrication finale: {entropy_evolution[-1]:.6f}")
     print(f"Nombre de particules simulées: {len(sim.particles)}")
+    
+#davidou888
+print("J'apprend git!!!")
+
+print("j'update mon python ici !")
